@@ -1,0 +1,2 @@
+TestingMultiView.Activity1;testingmultiview.Activity1
+Macaw.UIComponents.MultiImageView;macaw.uicomponents.MultiImageView

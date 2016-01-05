@@ -1,0 +1,2 @@
+C:\Users\Administrator\Desktop\MultiImageView-1.1\samples\TestingMultiView\TestingMultiView\bin\Debug\TestingMultiView.dll
+C:\Users\Administrator\Desktop\MultiImageView-1.1\lib\android\Macaw.UIComponents.dll
