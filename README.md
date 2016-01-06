@@ -3,7 +3,7 @@
 
 
 
-从官网down下来的库：[了解详情请戳这里](http://components.xamarin.com/view/NumberProgressBar)
+从官网down下来的库：[了解详情请戳这里](http://components.xamarin.com/view/MultiImageView)
 ===========================
 
 #注意
